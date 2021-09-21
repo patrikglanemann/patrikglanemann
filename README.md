@@ -10,7 +10,7 @@
 <p align="left">
 
 [![Xing Badge](https://img.shields.io/badge/Xing-026466?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Patrik_Glanemann/cv)](https://www.xing.com/profile/Patrik_Glanemann/cv)
-</p>
+</p><br>
 
 <div align="left">
 <p><img src="https://github-readme-stats.vercel.app/api?username=patrikglanemann&theme=calm&count_private=true&show_icons=true&locale=en" alt="patrikglanemann"/>

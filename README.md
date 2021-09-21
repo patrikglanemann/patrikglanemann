@@ -6,11 +6,11 @@
 - 🔭 I’m currently looking into <a href="https://chingu.io">chingu.io</a>
 - ⚡ Fun fact: I am a traditional artist, dabbling in the 3D modeling and videogame making area <a href="https://instagram.com/johnzerorezt"><img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" height="20"/></a>
 
-
-<!--<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/miau.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="miau.net" height="30" width="30" /></a>
-</p>-->
+
+[![Xing Badge](https://img.shields.io/badge/Xing-026466?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Patrik_Glanemann/cv)](https://www.xing.com/profile/Patrik_Glanemann/cv)
+</p>
 
 <div align="left">
 <p><img src="https://github-readme-stats.vercel.app/api?username=patrikglanemann&theme=calm&count_private=true&show_icons=true&locale=en" alt="patrikglanemann"/>

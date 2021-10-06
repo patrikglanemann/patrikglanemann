@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently looking into <a href="https://chingu.io">chingu.io</a>
+- 🔭 I’m currently enrolled in a chingu-voyage <a href="https://chingu.io">chingu.io</a>
 - ⚡ Fun fact: I am a traditional artist, dabbling in the 3D modeling and videogame making area <a href="https://instagram.com/johnzerorezt"><img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" height="20"/></a>
 
 <h3 align="left">Connect with me:</h3>

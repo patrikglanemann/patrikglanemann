@@ -2,7 +2,7 @@
 <h3 align="left">I am a freshly graduated junior web developer from Hamburg, Germany. </h3>
 
 
-- 👨‍💻 <a href="https://patrikglanemann.github.io/portfolioWebpage/">Projects Portfolio</a>
+- 👨‍💻 <a href="https://patrikglanemann.github.io/portfolio/">Projects Portfolio</a>
 - 🔭 Chingu-voyage #34 04 Oct - 14 Nov <a href="https://chingu.io">chingu.io</a>
 - ⚡ Fun fact: I am a traditional artist, dabbling in the 3D modeling and videogame making area <a href="https://instagram.com/johnzerorezt"><img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="20" height="20"/></a>
 
